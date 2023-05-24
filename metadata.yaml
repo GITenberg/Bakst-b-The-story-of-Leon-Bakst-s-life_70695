@@ -1,11 +1,16 @@
 _repo: Bakst-b-The-story-of-Leon-Bakst-s-life_70695
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70695-h/images/cover.jpg
 creator:
   author:
     agent_name: Levinson, André
     gutenberg_agent_id: '55870'
     url: http://www.gutenberg.org/2009/agents/55870
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70695#Bakst-b-The-story-of-Leon-Bakst-s-life
 gutenberg_issued: '2023-05-03'
 identifiers:
   gutenberg: '70695'
